@@ -1,0 +1,30 @@
+[
+  {
+    "id": "r-sample-1",
+    "address": "Irvine Spectrum Center, Irvine, CA",
+    "lat": 33.6502,
+    "lng": -117.7448,
+    "beds": 2,
+    "baths": 2,
+    "amenities": { "wifi": true, "parking": true, "pool": true, "pets": false },
+    "photos": [],
+    "michael": 4,
+    "anna": 5,
+    "notes": "Walkable to shops and food. A bit pricey but loved the layout.",
+    "status": "very"
+  },
+  {
+    "id": "r-sample-2",
+    "address": "Old Town Tustin, Tustin, CA",
+    "lat": 33.7458,
+    "lng": -117.8267,
+    "beds": 3,
+    "baths": 2,
+    "amenities": { "wifi": true, "parking": false, "pets": true, "pool": false },
+    "photos": [],
+    "michael": 3,
+    "anna": 2,
+    "notes": "Spacious but street parking only. Worth a second look.",
+    "status": "possible"
+  }
+]
