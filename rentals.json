@@ -28,7 +28,8 @@
     "michael": 0,
     "anna": 0,
     "notes": "",
-    "status": "possible"
+    "status": "possible",
+    "nickname": "NA - Not too Bad though!"
   },
   {
     "id": "r1782624095174",
@@ -39,6 +40,391 @@
     "price": "3800",
     "lat": 33.6515911,
     "lng": -117.7501213,
+    "beds": 2,
+    "baths": 2,
+    "distWork": {
+      "ok": true,
+      "text": ""
+    },
+    "distGrocery": {
+      "ok": true,
+      "text": ""
+    },
+    "amenities": {
+      "wifi": false,
+      "parking": false,
+      "pool": false,
+      "pets": false
+    },
+    "photos": [],
+    "michael": 0,
+    "anna": 0,
+    "notes": "",
+    "status": "possible",
+    "nickname": "Irvine Spectrum Adjacent"
+  },
+  {
+    "id": "r1782680879044",
+    "address": "1100-1445, Perlita, Los Olivos, Irvine, Orange County, California, 92618",
+    "url": "https://www.irvinecompanyapartments.com/locations/orange-county/irvine/spectrum/promenade-at-spectrum.html",
+    "agentEmail": "",
+    "agentPhone": "",
+    "price": "3800",
+    "lat": 33.6401158,
+    "lng": -117.7456633,
+    "beds": 2,
+    "baths": 2,
+    "distWork": {
+      "ok": true,
+      "text": ""
+    },
+    "distGrocery": {
+      "ok": true,
+      "text": ""
+    },
+    "amenities": {
+      "wifi": false,
+      "parking": false,
+      "pool": false,
+      "pets": false
+    },
+    "photos": [],
+    "michael": 0,
+    "anna": 0,
+    "notes": "https://docs.google.com/spreadsheets/d/11qWRG-Zx-R-GKQzsN0d4ssFuGQ5i2Tm-/edit?gid=1440919751#gid=1440919751",
+    "status": "possible",
+    "nickname": "\"Promenade\" (Irvine Spectrum Adjacent)"
+  },
+  {
+    "id": "r1782681889637",
+    "nickname": "\"Los Olivos\"",
+    "address": "350, Gitano, Los Olivos, Irvine, Orange County, California, 92618",
+    "url": "https://www.irvinecompanyapartments.com/locations/orange-county/irvine/spectrum/los-olivos.html",
+    "agentEmail": "",
+    "agentPhone": "",
+    "price": "3400",
+    "lat": 33.644378,
+    "lng": -117.7480658,
+    "beds": 2,
+    "baths": 2,
+    "distWork": {
+      "ok": true,
+      "text": ""
+    },
+    "distGrocery": {
+      "ok": true,
+      "text": ""
+    },
+    "amenities": {
+      "wifi": false,
+      "parking": false,
+      "pool": false,
+      "pets": false
+    },
+    "photos": [],
+    "michael": 0,
+    "anna": 0,
+    "notes": "",
+    "status": "possible"
+  },
+  {
+    "id": "r1782681968935",
+    "nickname": "\"Portola Court\"",
+    "address": "100, Family Tree, Portola Court, Portola Springs, Irvine, Orange County, California, 92618",
+    "url": "https://www.irvinecompanyapartments.com/locations/orange-county/irvine/portola-springs/portola-court.html",
+    "agentEmail": "",
+    "agentPhone": "",
+    "price": "3690",
+    "lat": 33.6857072,
+    "lng": -117.7162848,
+    "beds": 2,
+    "baths": 2,
+    "distWork": {
+      "ok": true,
+      "text": ""
+    },
+    "distGrocery": {
+      "ok": true,
+      "text": ""
+    },
+    "amenities": {
+      "wifi": false,
+      "parking": false,
+      "pool": false,
+      "pets": false
+    },
+    "photos": [],
+    "michael": 0,
+    "anna": 0,
+    "notes": "",
+    "status": "possible"
+  },
+  {
+    "id": "r1782682032935",
+    "nickname": "\"Villa Siena\"",
+    "address": "25, Palatine, Villa Siena, Irvine Business Complex, Irvine, Orange County, California, 92612",
+    "url": "https://www.irvinecompanyapartments.com/locations/orange-county/irvine/villa-siena.html",
+    "agentEmail": "",
+    "agentPhone": "",
+    "price": "3425",
+    "lat": 33.6694871,
+    "lng": -117.8488141,
+    "beds": 2,
+    "baths": 2,
+    "distWork": {
+      "ok": true,
+      "text": ""
+    },
+    "distGrocery": {
+      "ok": true,
+      "text": ""
+    },
+    "amenities": {
+      "wifi": false,
+      "parking": false,
+      "pool": false,
+      "pets": false
+    },
+    "photos": [],
+    "michael": 0,
+    "anna": 0,
+    "notes": "",
+    "status": "possible"
+  },
+  {
+    "id": "r1782682102701",
+    "nickname": "\"Avella\"",
+    "address": "6500, Roosevelt, Cypress Village, Irvine, Orange County, California, 92618",
+    "url": "",
+    "agentEmail": "",
+    "agentPhone": "",
+    "price": "",
+    "lat": 33.6830587,
+    "lng": -117.7496764,
+    "beds": 2,
+    "baths": 2,
+    "distWork": {
+      "ok": true,
+      "text": ""
+    },
+    "distGrocery": {
+      "ok": true,
+      "text": ""
+    },
+    "amenities": {
+      "wifi": false,
+      "parking": false,
+      "pool": false,
+      "pets": false
+    },
+    "photos": [],
+    "michael": 0,
+    "anna": 0,
+    "notes": "",
+    "status": "possible"
+  },
+  {
+    "id": "r1782683042688",
+    "nickname": "\"Brittany\"",
+    "address": "100, Saint Vincent, Brittany Apartments, Oak Creek, Irvine, Orange County, California, 92618",
+    "url": "https://www.irvinecompanyapartments.com/locations/orange-county/irvine/oak-creek/brittany.html",
+    "agentEmail": "",
+    "agentPhone": "",
+    "price": "3300",
+    "lat": 33.6663115,
+    "lng": -117.7902603,
+    "beds": 2,
+    "baths": 2,
+    "distWork": {
+      "ok": true,
+      "text": ""
+    },
+    "distGrocery": {
+      "ok": true,
+      "text": ""
+    },
+    "amenities": {
+      "wifi": false,
+      "parking": false,
+      "pool": false,
+      "pets": false
+    },
+    "photos": [],
+    "michael": 4,
+    "anna": 0,
+    "notes": "Michael:\nI kind of like it on price!",
+    "status": "possible"
+  },
+  {
+    "id": "r1782683138342",
+    "nickname": "\"Esperanza\"",
+    "address": "1103-1308, Esperanza, Esperanza Apartments, Woodbury East, Irvine, Orange County, California, 92618",
+    "url": "https://www.irvinecompanyapartments.com/locations/orange-county/irvine/stonegate/esperanza.html",
+    "agentEmail": "",
+    "agentPhone": "",
+    "price": "3360",
+    "lat": 33.6950169,
+    "lng": -117.7385839,
+    "beds": 2,
+    "baths": 2,
+    "distWork": {
+      "ok": true,
+      "text": ""
+    },
+    "distGrocery": {
+      "ok": true,
+      "text": ""
+    },
+    "amenities": {
+      "wifi": false,
+      "parking": false,
+      "pool": false,
+      "pets": false
+    },
+    "photos": [],
+    "michael": 4,
+    "anna": 0,
+    "notes": "Michael: Price on this one is also not so bad!",
+    "status": "possible"
+  },
+  {
+    "id": "r1782683198905",
+    "nickname": "\"Newport Bluffs\"",
+    "address": "100, Vilaggio, Belcourt, Bonita Canyon, Newport Beach, Orange County, California, 92660",
+    "url": "https://www.irvinecompanyapartments.com/locations/orange-county/newport-beach/newport-bluffs.html",
+    "agentEmail": "",
+    "agentPhone": "",
+    "price": "3900",
+    "lat": 33.633303,
+    "lng": -117.8622776,
+    "beds": 2,
+    "baths": 2,
+    "distWork": {
+      "ok": true,
+      "text": ""
+    },
+    "distGrocery": {
+      "ok": true,
+      "text": ""
+    },
+    "amenities": {
+      "wifi": false,
+      "parking": false,
+      "pool": false,
+      "pets": false
+    },
+    "photos": [],
+    "michael": 0,
+    "anna": 0,
+    "notes": "",
+    "status": "possible"
+  },
+  {
+    "id": "r1782683376718",
+    "nickname": "\"Newport Ridge\"",
+    "address": "Newport Coast, Newport Beach, Orange County, California",
+    "url": "https://www.irvinecompanyapartments.com/locations/orange-county/newport-beach/newport-ridge.html",
+    "agentEmail": "",
+    "agentPhone": "",
+    "price": "4300",
+    "lat": 33.5963719,
+    "lng": -117.826821,
+    "beds": 2,
+    "baths": 2,
+    "distWork": {
+      "ok": true,
+      "text": ""
+    },
+    "distGrocery": {
+      "ok": true,
+      "text": ""
+    },
+    "amenities": {
+      "wifi": false,
+      "parking": false,
+      "pool": false,
+      "pets": false
+    },
+    "photos": [],
+    "michael": 2,
+    "anna": 0,
+    "notes": "Michael: Maybe a bit expensive",
+    "status": "possible"
+  },
+  {
+    "id": "r1782683429436",
+    "nickname": "\"Pacifica Place\"",
+    "address": "1000 Gateway, Irvine, CA 92618",
+    "url": "https://www.irvinecompanyapartments.com/locations/orange-county/irvine/spectrum/pacifica-place-at-irvine-spectrum.html",
+    "agentEmail": "",
+    "agentPhone": "",
+    "price": "3500",
+    "lat": 33.657611,
+    "lng": -117.7498444,
+    "beds": 2,
+    "baths": 2,
+    "distWork": {
+      "ok": true,
+      "text": ""
+    },
+    "distGrocery": {
+      "ok": true,
+      "text": ""
+    },
+    "amenities": {
+      "wifi": false,
+      "parking": false,
+      "pool": false,
+      "pets": false
+    },
+    "photos": [],
+    "michael": 0,
+    "anna": 0,
+    "notes": "",
+    "status": "possible"
+  },
+  {
+    "id": "r1782683474135",
+    "nickname": "\"MP Meridian\"",
+    "address": "Bryan Avenue, Myford, Lower Peters Canyon, Irvine, Orange County, California, 92780",
+    "url": "https://www.irvinecompanyapartments.com/locations/orange-county/irvine/west-irvine/meridian.html",
+    "agentEmail": "",
+    "agentPhone": "",
+    "price": "3700",
+    "lat": 33.7169207,
+    "lng": -117.7777698,
+    "beds": 2,
+    "baths": 2,
+    "distWork": {
+      "ok": true,
+      "text": ""
+    },
+    "distGrocery": {
+      "ok": true,
+      "text": ""
+    },
+    "amenities": {
+      "wifi": false,
+      "parking": false,
+      "pool": false,
+      "pets": false
+    },
+    "photos": [],
+    "michael": 0,
+    "anna": 0,
+    "notes": "",
+    "status": "possible"
+  },
+  {
+    "id": "r1782683545817",
+    "nickname": "\"MP Colonnade\"",
+    "address": "Marketplace Drive, West Irvine, Myford, Lower Peters Canyon, Irvine, Orange County, California, 92782",
+    "url": "https://www.irvinecompanyapartments.com/locations/orange-county/irvine/west-irvine/colonnade.html",
+    "agentEmail": "",
+    "agentPhone": "",
+    "price": "3700",
+    "lat": 33.7292405,
+    "lng": -117.7821223,
     "beds": 2,
     "baths": 2,
     "distWork": {
