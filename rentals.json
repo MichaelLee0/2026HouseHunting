@@ -1,30 +1,64 @@
 [
   {
-    "id": "r-sample-1",
-    "address": "Irvine Spectrum Center, Irvine, CA",
-    "lat": 33.6502,
-    "lng": -117.7448,
+    "id": "r1782624004212",
+    "address": "4-36, Austin, El Camino Real, Irvine, Orange County, California, 92604",
+    "url": "https://www.westsiderentals.com/irvine-ca/heritage-point-qprvgww",
+    "agentEmail": "",
+    "agentPhone": "",
+    "price": "3050",
+    "lat": 33.6917479,
+    "lng": -117.7709929,
     "beds": 2,
     "baths": 2,
-    "amenities": { "wifi": true, "parking": true, "pool": true, "pets": false },
+    "distWork": {
+      "ok": true,
+      "text": ""
+    },
+    "distGrocery": {
+      "ok": true,
+      "text": ""
+    },
+    "amenities": {
+      "wifi": false,
+      "parking": false,
+      "pool": false,
+      "pets": false
+    },
     "photos": [],
-    "michael": 4,
-    "anna": 5,
-    "notes": "Walkable to shops and food. A bit pricey but loved the layout.",
-    "status": "very"
+    "michael": 0,
+    "anna": 0,
+    "notes": "",
+    "status": "possible"
   },
   {
-    "id": "r-sample-2",
-    "address": "Old Town Tustin, Tustin, CA",
-    "lat": 33.7458,
-    "lng": -117.8267,
-    "beds": 3,
+    "id": "r1782624095174",
+    "address": "25, Pacifica, Irvine Spectrum, Irvine, Orange County, California, 92618",
+    "url": "https://www.westsiderentals.com/irvine-ca/the-village-at-irvine-spectrum-9vd52b4",
+    "agentEmail": "",
+    "agentPhone": "",
+    "price": "3800",
+    "lat": 33.6515911,
+    "lng": -117.7501213,
+    "beds": 2,
     "baths": 2,
-    "amenities": { "wifi": true, "parking": false, "pets": true, "pool": false },
+    "distWork": {
+      "ok": true,
+      "text": ""
+    },
+    "distGrocery": {
+      "ok": true,
+      "text": ""
+    },
+    "amenities": {
+      "wifi": false,
+      "parking": false,
+      "pool": false,
+      "pets": false
+    },
     "photos": [],
-    "michael": 3,
-    "anna": 2,
-    "notes": "Spacious but street parking only. Worth a second look.",
+    "michael": 0,
+    "anna": 0,
+    "notes": "",
     "status": "possible"
   }
 ]
