@@ -173,7 +173,7 @@
     "baths": 2,
     "distWork": {
       "ok": true,
-      "text": ""
+      "text": "24-35 at 7AM"
     },
     "distGrocery": {
       "ok": true,
@@ -186,9 +186,9 @@
       "pets": false
     },
     "photos": [],
-    "michael": 0,
+    "michael": 3,
     "anna": 0,
-    "notes": "",
+    "notes": "Hmm right by the airport? The area isn't quite as nice to hang out as Spectrum",
     "status": "possible"
   },
   {
@@ -237,7 +237,7 @@
     "baths": 2,
     "distWork": {
       "ok": true,
-      "text": ""
+      "text": "26-40 min leaving at 7AM"
     },
     "distGrocery": {
       "ok": true,
@@ -269,7 +269,7 @@
     "baths": 2,
     "distWork": {
       "ok": true,
-      "text": ""
+      "text": "30-45 min at 7AM"
     },
     "distGrocery": {
       "ok": true,
@@ -349,7 +349,7 @@
     "michael": 2,
     "anna": 0,
     "notes": "Michael: Maybe a bit expensive",
-    "status": "possible"
+    "status": "not"
   },
   {
     "id": "r1782683429436",
