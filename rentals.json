@@ -245,14 +245,14 @@
     },
     "amenities": {
       "wifi": false,
-      "parking": false,
-      "pool": false,
+      "parking": true,
+      "pool": true,
       "pets": false
     },
     "photos": [],
-    "michael": 4,
+    "michael": 5,
     "anna": 0,
-    "notes": "Michael:\nI kind of like it on price!",
+    "notes": "Michael:\nI kind of like it on price!\n\nWe'd be looking at a plan 8! (https://www.irvinecompanyapartments.com/locations/orange-county/irvine/oak-creek/brittany/availability.html#floor-plan-list)\n\nWasher drier in unit! Utilities not included.",
     "status": "possible"
   },
   {
